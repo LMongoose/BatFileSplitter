@@ -1,3 +1,6 @@
+REM Windows Batch File Splitter. by LMongoose 
+REM use split.bat <sourcefile> <number_of_lines> <prefix_of_result_files>
+
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
